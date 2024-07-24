@@ -1,4 +1,5 @@
-package com.javapoobanco.desafiobanco;
+package com.javapoobanco.desafiobanco.conta;
+
 public interface IConta {
 
     void sacar(double valor);

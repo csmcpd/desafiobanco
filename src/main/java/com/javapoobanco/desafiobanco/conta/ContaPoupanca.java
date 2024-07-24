@@ -1,4 +1,7 @@
-package com.javapoobanco.desafiobanco;
+package com.javapoobanco.desafiobanco.conta;
+
+import com.javapoobanco.desafiobanco.pessoas.Pessoa;
+
 public class ContaPoupanca extends Conta{
 
     public ContaPoupanca(Pessoa pessoa) {

@@ -1,4 +1,4 @@
-package com.javapoobanco.desafiobanco;
+package com.javapoobanco.desafiobanco.pessoas;
 
 import lombok.*;
 

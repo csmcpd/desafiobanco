@@ -1,6 +1,7 @@
-package com.javapoobanco.desafiobanco;
+package com.javapoobanco.desafiobanco.conta;
 
 import java.util.List;
+
 import lombok.*;
 
 @Getter

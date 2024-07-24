@@ -1,12 +1,13 @@
-package com.javapoobanco.desafiobanco;
+package com.javapoobanco.desafiobanco.pessoas;
 
 import lombok.*;
 
 @Getter
 @Setter
 
-public abstract class Pessoa {
+public class Cliente {
 
     private String nome;
     private String endereco;
+  
 }
